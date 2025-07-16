@@ -72,4 +72,4 @@ int main() {
   return 0;
 }
 //time complexity: O(n * log(sum - maxVal + 1))
-//space complexity: O(1) for variables, O(n) for input vector
+//space complexity: O(1) for variables, O(n) for input vectorz
